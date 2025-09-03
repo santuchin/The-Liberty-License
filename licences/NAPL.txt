@@ -1,0 +1,27 @@
+Copyright <YEAR> <COPYRIGHT HOLDER>
+
+This license applies to any original work of authorship subject to copyright or related rights, including but not limited to software, text, audio, video, images, and other creative expressions (hereafter referred to as “the Work”).
+
+1. Grant of Rights:
+
+	Permission is hereby granted, free of charge, to any person obtaining a copy of this Work and any associated materials, to deal in the Work without restriction, including without limitation the rights to use, reproduce, adapt, modify, merge, publish, perform, display, distribute, and/or sell copies of the Work, and to permit persons to whom the Work is provided to do so, subject to the following conditions:
+
+	a. Non-Aggression Clause:
+		Any person who uses, possesses, modifies, or distributes this Work, even without distributing it, irrevocably waives the right to initiate or participate in any legal, administrative, or extrajudicial action against any third party regarding this Work or its derivatives.
+
+	b. Absolute Copyleft:
+		Any derivative, modification, or adaptation of this Work must retain this license in its entirety.
+
+		This requirement applies to any form of distribution, transfer, or communication of the Work or its derivatives to third parties — whether public or private, commercial or non-commercial. The obligation to preserve this license is triggered by the act of making the Work or its derivatives available to others, regardless of the scale or medium involved.
+
+		Private use that does not involve providing the Work to anyone else does not require preserving or reproducing this license, but such use remains subject to the Non-Aggression Clause (section 1.a).
+		
+		Sublicensing, relicensing, or imposing additional legal terms or restrictions is not permitted under any circumstance.
+
+2. Patent Waiver:
+	The author and contributors irrevocably waive any patent rights they hold over this Work.  
+	Anyone may use, modify, distribute, or implement any part of the Work, even if covered by patents, without permission, license, or compensation.  
+	Furthermore, anyone who distributes derivative works or contributes modifications irrevocably waives any patent claims over those parts of the Work that are derived from or based on this Work.
+
+3. Disclaimer of Warranty:
+	THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.

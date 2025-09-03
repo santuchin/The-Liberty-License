@@ -1,0 +1,15 @@
+Copyright <YEAR> <COPYRIGHT HOLDER>
+
+Definitions
+
+Rights
+
+	excluding:
+
+	a. legal coersion
+	b. distribution without license
+
+Patents
+
+Warranty
+

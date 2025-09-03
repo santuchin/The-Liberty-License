@@ -1,0 +1,16 @@
+The Libertarian License (TLL)
+
+Copyright © <YEAR> <COPYRIGHT HOLDER>
+
+1. Libertad de uso
+	Se concede permiso, sin cargo, a cualquier persona para hacer cualquier cosa con este software, para cualquier propósito, incluyendo pero no limitado a usar, copiar, modificar, fusionar, distribuir y vender.
+
+2. Condiciones
+	a. El uso de este software implica la renuncia irrevocable a ejercer cualquier acción legal, presente o futura, basada en derechos de autor, patentes u otra forma de propiedad intelectual sobre este software o sus derivados, contra cualquier persona o entidad.
+	b. Cualquier obra derivada, modificada o no, incluyendo pero no limitado a modificaciones y versiones posteriores, debe mantenerse bajo esta misma licencia.
+
+3. Garantias
+	Este software se proporciona "tal cual", sin garantía de ningún tipo.
+
+4. Alcance
+	Esta licencia es válida en todas las jurisdicciones, en todo tiempo, y no puede ser revocada.
