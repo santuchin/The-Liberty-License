@@ -1,0 +1,35 @@
+The Libertarian License (TLL) is designed to maximize freedom, giving the user the legal rights to do anything with it, except to take away the freedom of anyone else.
+
+Copyright © <YEAR> <COPYRIGHT HOLDER>
+
+1. Definitions
+
+    Material: Licensable, including but not limited to:
+        * Copyright
+        * Patents
+        * Trademarks
+        * Trade secrets
+        * Database rights
+        * Designs
+        * Inventions
+		* Sui Generis
+        * Any intellectual property rights that are licensable
+
+    Distribution: Any communication of Material to third parties.
+
+2. Rights
+
+    Absolute freedom, including but not limited to use, copy, modify for any purpose, except for the following condition:
+
+        To the maximum extent permitted by law, any Distribution of Material related to it, including but not limited to:
+            * The original Material
+            * Derivatives of the original or related Material
+            * Material created, adapted, or modified using the original or related Material
+
+        Must use exactly this license (The Libertarian License). This implies:
+            * Relicensing or sublicensing is strictly prohibited
+            * Adding, removing, or modifying any terms, definitions, rights, conditions, or warranties is strictly prohibited
+
+3. Warranties
+
+    This Material is provided "as is", without any warranty, express or implied.
