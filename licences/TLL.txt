@@ -1,0 +1,33 @@
+Copyright © <YEAR> <COPYRIGHT HOLDER>
+
+PREAMBLE
+	The Libertarian License (TLL) is designed to maximize freedom, giving the user the legal rights to do anything with it, except to take away the freedom of anyone else.
+
+TERMS AND CONDITIONS
+
+1. Definitions
+
+	Material: Licensable, including but not limited to copyright and patents.
+
+	Distribution: Any communication of Material to third parties.
+
+2. Indivisibility
+	This License constitutes a single and indivisible agreement.  
+    If any of its terms or conditions is declared null, invalid, or unenforceable by a competent authority, the License in its entirety shall be considered null and void, and all permissions and rights granted by it shall be immediately revoked.
+
+3. Rights
+
+	Absolute freedom, including but not limited to use, copy, modify for any purpose, except for the following condition:
+
+		To the maximum extent permitted by law, any Distribution of Material related to the original Material or its contents, including but not limited to:
+			- The original Material
+			- Derivatives of the original or related Material
+			- Material created, adapted, or modified using the original or related Material
+
+		Must use exactly the same terms and conditions of this license. This implies:
+			- Relicensing or sublicensing is strictly prohibited
+			- Adding, removing, or modifying any terms, definitions, rights, conditions, or warranties is strictly prohibited
+
+4. Warranties
+
+	This Material is provided "as is", without any warranty, express or implied.
