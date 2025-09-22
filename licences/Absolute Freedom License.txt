@@ -1,0 +1,45 @@
+Copyright © <YEAR> <COPYRIGHT HOLDER>
+
+PREAMBLE
+	Absolute Freedom License (AFL) is designed to give the user absolute freedom.
+
+LICENSE
+	This License text itself is licensed under the Absolute Freedom License (this same license).
+
+TERMS
+	Severality
+		If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+	Definitions
+		Material: Licensable, including but not limited to:
+			- Copyright
+			- Patents
+			- Sui Generis
+
+		Distribution: Any communication of Material to third parties, whether intentional or unintentional, direct or indirect, or even accidental, including but not limited to:
+			- Publication
+			- Transfer
+			- Transmission
+			- Exposure
+			- Any form of making available.
+
+	Acceptance
+		By distributing the Material, you accept and agree to be bound by the terms of this License.
+
+	Rights
+		Permission is hereby granted, free of charge, to any person obtaining a copy of this Material and associated Material, to deal in the Material without restriction, including without limitation the rights to:
+			- Use
+			- Copy
+			- Modify
+			- Merge
+			- Publish
+			- Distribute
+			- Sublicense
+			- Sell copies of the Material
+			- Permit persons to whom the Material is furnished to do so
+
+	Disclaimer of Warranty
+		This Material is provided "as is", without any warranty, express or implied.
+
+	Limitation of Liability
+		The author shall not be liable for any damages, claims, or other liabilities, whether in an action of contract, tort, or otherwise, arising from the use, misuse, or distribution of the Material.

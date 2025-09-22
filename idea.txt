@@ -1,0 +1,17 @@
+
+Licences:
+	a main, pure license: absolute freedom, expect for strict copyleft
+	a secondary, lesser pure license: absolute freedom, except for more compatible copyleft
+
+fields:
+
+	copyleft
+		absolute
+		strong
+		weak
+		none
+	
+	compability
+		contents/dependencies must not add conditions
+		any
+	

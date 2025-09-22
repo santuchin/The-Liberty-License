@@ -1,0 +1,36 @@
+Copyright © <YEAR> <COPYRIGHT HOLDER>
+
+PREAMBLE
+	...
+
+LICENSE
+	...
+
+TERMS
+	Severality
+		If any provision of this license is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+	Definitions
+		Material: Licensable, including but not limited to:
+			- Copyright
+			- Patents
+			- Sui Generis
+
+		Distribution: Any communication of Material to third parties, whether intentional or unintentional, direct or indirect, or even accidental, including but not limited to:
+			- Publication
+			- Transfer
+			- Transmission
+			- Exposure
+			- Any form of making available.
+
+	Acceptance
+		...
+
+	Rights and conditions
+		...
+
+	Disclaimer of Warranty
+		This Material is provided "as is", without any warranty, express or implied.
+
+	Limitation of Liability
+		The author shall not be liable for any damages, claims, or other liabilities, whether in an action of contract, tort, or otherwise, arising from the use, misuse, or distribution of the Material.
