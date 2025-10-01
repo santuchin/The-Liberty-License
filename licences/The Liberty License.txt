@@ -1,10 +1,9 @@
 Copyright © <YEAR> <COPYRIGHT HOLDER>
 
+The Liberty License (TLL) Version 1.0 – 2025-10-01
+
 PREAMBLE
 	The Liberty License (TLL) is designed to maximize freedom, giving the user the legal rights to do anything with it, except to take away the freedom of anyone else.
-
-LICENSE
-	This License is licensed under its own terms
 
 TERMS
 
@@ -13,6 +12,7 @@ TERMS
 		If any provision of this license is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
 	2. Global Applicability
+
 		To the maximum extent permitted by local law, the terms of this License shall apply worldwide. Nothing in this License shall be interpreted as limiting its applicability to any particular jurisdiction, and all users are expected to comply with its terms to the extent allowed by law in their country.
 
 	3. Definitions
@@ -22,20 +22,25 @@ TERMS
 			- Patents
 			- Sui Generis rights
 
-		Derived Material: Any Material that has been made using any part, generated, or modified using the original Material including its contents.
+		Derived Material: Any Material that is based upon, incorporates, contains, aggregates with, or is derived from the Material in whole or in part, in any form or medium. This includes, but is not limited to:
+			- Modifications, adaptations, translations, or transformations
+			- Compilations, collections, or aggregations that include the Material
+			- Incorporation into larger works of any nature
+			- Any Material distributed, published, or made available in conjunction with the Material
 
 		Distribution: Any communication of Material to third parties, including but not limited to publication, transfer, transmission, or other forms of making available.
 
 	4. Acceptance
+
 		You may not distribute the Material except under the terms of this License. By distributing the Material, you agree to be bound by its terms.
 
 	5. Rights and conditions
 
 		You are granted absolute freedom, including but not limited to:
-			- Use
-			- Copy
-			- Modify
-			- Distribute
+			- Use the Material for any purpose, including commercial purposes
+			- Copy and share the Material
+			- Modify, adapt, or transform the Material
+			- Execute, display, or otherwise utilize the Material in any form
 		
 		Except for the following condition:
 
@@ -55,5 +60,23 @@ TERMS
 	
 	9. Compatibility
 
-		Material licensed under this License may be combined with Material that does not impose additional terms or conditions. 
-		In such combinations, this License applies only to the Material originally licensed under it, not to other materials.
+		You may combine or distribute the Material together with other works only if such works do not impose any additional terms or conditions on the combined whole.
+
+		This means that:
+
+			a) The combined Material must be governed exclusively by the terms of this License;
+
+			b) Any additional conditions (such as mandatory attribution, patent retaliation clauses, or usage restrictions) from other licenses are not permitted to apply to the combined work;
+
+			c) You may include Material under licenses that do not impose any such conditions, such as:
+
+				- CC0
+				- The Unlicense
+				- 0BSD
+
+		You are solely responsible for ensuring that any third-party material you combine or distribute with the Material complies with this requirement.
+		In all cases, the original Material and its derivatives remain governed by this License.
+
+	10. Legal Exceptions
+
+		Nothing in this License shall be construed as restricting rights granted by applicable law, including but not limited to fair use, quotation, parody, private use, educational use, or any other legal exception or limitation to copyright, patent, or similar rights.
