@@ -7,10 +7,15 @@ LICENSE
 	...
 
 TERMS
-	Severality
-		If any provision of this license is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
+	Jurisdiction
+
+	Severality
+		
+		If any provision of this license is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+		
 	Definitions
+		
 		Material: Licensable, including but not limited to:
 			- Copyright
 			- Patents

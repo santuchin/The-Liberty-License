@@ -1,8 +1,0 @@
-Preamble (opcional, ya lo tenés)
-
-1. Definitions
-2. Rights
-3. Warranties
-4. Indivisibility
-5. (opcional: Acceptance clause)
-6. (opcional: License of the License)

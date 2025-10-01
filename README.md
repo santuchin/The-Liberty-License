@@ -1,5 +1,6 @@
-# The-Libertarian-License
+# The-Liberty-License
 
 
-citar a "Against Intellectual Property" de N. Stephan Kinsella: "https://mises.org/library/book/against-intellectual-property"
+"Against Intellectual Property" by N. Stephan Kinsella: https://mises.org/library/book/against-intellectual-property
+https://stephankinsella.com/own-ideas/
 

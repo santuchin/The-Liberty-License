@@ -1,0 +1,59 @@
+Copyright © <YEAR> <COPYRIGHT HOLDER>
+
+PREAMBLE
+	The Liberty License (TLL) is designed to maximize freedom, giving the user the legal rights to do anything with it, except to take away the freedom of anyone else.
+
+LICENSE
+	This License is licensed under its own terms
+
+TERMS
+
+	1. Severability
+
+		If any provision of this license is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+	2. Global Applicability
+		To the maximum extent permitted by local law, the terms of this License shall apply worldwide. Nothing in this License shall be interpreted as limiting its applicability to any particular jurisdiction, and all users are expected to comply with its terms to the extent allowed by law in their country.
+
+	3. Definitions
+
+		Material: Licensable, including but not limited to:
+			- Copyright
+			- Patents
+			- Sui Generis rights
+
+		Derived Material: Any Material that has been made using any part, generated, or modified using the original Material including its contents.
+
+		Distribution: Any communication of Material to third parties, including but not limited to publication, transfer, transmission, or other forms of making available.
+
+	4. Acceptance
+		You may not distribute the Material except under the terms of this License. By distributing the Material, you agree to be bound by its terms.
+
+	5. Rights and conditions
+
+		You are granted absolute freedom, including but not limited to:
+			- Use
+			- Copy
+			- Modify
+			- Distribute
+		
+		Except for the following condition:
+
+			To the maximum extent permitted by law, any Distribution of Derived Material must use exactly the same terms of this License. Relicensing or sublicensing of Derived Material is strictly prohibited.
+
+	6. Disclaimer of Warranty
+
+		This Material is provided "as is", without any warranty, express or implied.
+
+	7. Limitation of Liability
+
+		The author shall not be liable for any damages, claims, or other liabilities, whether in an action of contract, tort, or otherwise, arising from the use, misuse, or distribution of the Material.
+
+	8. Moral Rights Waiver
+
+		The author waives any Moral Rights to the maximum extent permitted by law.
+	
+	9. Compatibility
+
+		Material licensed under this License may be combined with Material that does not impose additional terms or conditions. 
+		In such combinations, this License applies only to the Material originally licensed under it, not to other materials.
