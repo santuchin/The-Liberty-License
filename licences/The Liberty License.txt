@@ -1,6 +1,6 @@
 Copyright © <YEAR> <COPYRIGHT HOLDER>
 
-The Liberty License (TLL) Version 1.0 – 2025-10-01
+The Liberty License (TLL) Version 0.1 – 2025-10-01
 
 PREAMBLE
 	The Liberty License (TLL) is designed to maximize freedom, giving the user the legal rights to do anything with it, except to take away the freedom of anyone else.
