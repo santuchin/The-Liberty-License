@@ -1,17 +1,26 @@
 
-Licences:
-	a main, pure license: absolute freedom, expect for strict copyleft
-	a secondary, lesser pure license: absolute freedom, except for more compatible copyleft
-
-fields:
+copyright:
+	free use
 
 	copyleft
-		absolute
-		strong
-		weak
-		none
-	
-	compability
-		contents/dependencies must not add conditions
-		any
-	
+	...
+
+patents:
+	free use
+
+	patentleft
+	...
+
+trademarks:
+	free use
+
+	...
+
+sui generis:
+
+	copyleft
+	...
+
+trade secrets:
+	waiver
+	...

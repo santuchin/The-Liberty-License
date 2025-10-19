@@ -1,9 +1,11 @@
-The Liberty License - version 0.1 - 2025-10-02
+Copyright © <YEAR> <COPYRIGHT HOLDER>
+
+The Absolute Liberty License (TALL) Version 0.1 – 2025-10-01
 
 PREAMBLE
-	The Liberty License (TLL) is designed to maximize freedom, giving the user the legal rights to do anything with it, except to take away the freedom of anyone else.
+	The Absolute Liberty License (TALL) is designed to give the user the maximum possible freedom, giving the user the legal rights to do anything with it, even to take away the freedom of anyone else.
 
-TERMS AND CONDITIONS
+TERMS
 
 	1. Severability
 
@@ -16,27 +18,22 @@ TERMS AND CONDITIONS
 	3. Definitions
 
 		Material: Licensable, including but not limited to:
-			- Copyrightable work
+			- Copyright
 			- Patents
-			- Sui generis rights
-
-		To "convey": any kind of propagation that enables other
-parties to make or receive copies.  Mere interaction with a user through
-a computer network, with no transfer of a copy, is not conveying.
+			- Sui Generis rights
 
 	4. Acceptance
+		By using this Material you agree to be bound by its terms.
 
 	5. Rights and conditions
 
 		You are granted absolute freedom, including but not limited to:
-			- Use this Material for any purpose, including but not limited to non-commercial, commercial, and educational purposes
-			- Copy and share this Material
-			- Modify, adapt, or transform this Material
-			- Execute, display, or otherwise utilize this Material in any form
+			- Use the Material for any purpose, including commercial purposes
+			- Copy and share the Material
+			- Modify, adapt, or transform the Material
+			- Execute, display, or otherwise utilize the Material in any form
+			- License, relicense, sublicense
 		
-		subject to the following conditions:
-			If you distribute this Material, it must be licensed by exactly this License.
-
 	6. Disclaimer of Warranty
 
 		This Material is provided "as is", without any warranty, express or implied.
@@ -46,6 +43,8 @@ a computer network, with no transfer of a copy, is not conveying.
 		The author shall not be liable for any damages, claims, or other liabilities, whether in an action of contract, tort, or otherwise, arising from the use, misuse, or distribution of the Material.
 
 	8. Moral Rights Waiver
+
+		The author waives any Moral Rights to the maximum extent permitted by law.
 	
-		To the maximum extent possible under applicable law, the author waives all moral rights.
-	
+	9. Compatibility
+		You may combine the Material with any Material.

@@ -1,11 +1,10 @@
-Copyright © <YEAR> <COPYRIGHT HOLDER>
 
-The Liberty License (TLL) Version 1.0 – 2025-10-01
+The Liberty License version 0.3 – 2025-10-19
 
 PREAMBLE
-	The Liberty License (TLL) is designed to maximize freedom, giving the user the legal rights to do anything with it, except to take away the freedom of anyone else.
+	The Liberty License (TLL) is designed to maximize freedom, granting the user the legal rights to do anything with the intellectual property covered by this licence, except to restrict others to do so.
 
-TERMS
+TERMS AND CONDITIONS
 
 	1. Severability
 
@@ -13,70 +12,67 @@ TERMS
 
 	2. Global Applicability
 
-		To the maximum extent permitted by local law, the terms of this License shall apply worldwide. Nothing in this License shall be interpreted as limiting its applicability to any particular jurisdiction, and all users are expected to comply with its terms to the extent allowed by law in their country.
+		To the maximum extent permitted by applicable law, the terms of this License shall apply worldwide. Nothing in this License shall be interpreted as limiting its applicability to any particular jurisdiction, and all users shall comply with its terms to the fullest extent allowed by the applicable law.
 
 	3. Definitions
 
-		Material: Licensable, including but not limited to:
+		‘Intellectual Property’ means any right of applicable law that protects ideas or creations of the mind, including but not limited to:
 			- Copyright
 			- Patents
-			- Sui Generis rights
+			- Trademarks
+			- Trade secrets
+			- Sui Generis
+			- Any similar rights recognized by applicable law
 
-		Derived Material: Any Material that is based upon, incorporates, contains, aggregates with, or is derived from the Material in whole or in part, in any form or medium. This includes, but is not limited to:
-			- Modifications, adaptations, translations, or transformations
-			- Compilations, collections, or aggregations that include the Material
-			- Incorporation into larger works of any nature
-			- Any Material distributed, published, or made available in conjunction with the Material
+		'Subject Matter' means any Intellectual Property covered by this License.
 
-		Distribution: Any communication of Material to third parties, including but not limited to publication, transfer, transmission, or other forms of making available.
+		‘Dependent Intellectual Property’ means Intellectual Property that, but for this License, would constitute an infringement of the Subject Matter.
 
 	4. Acceptance
 
-		You may not distribute the Material except under the terms of this License. By distributing the Material, you agree to be bound by its terms.
+		You may not use the Subject Matter except under the terms of this License.
+		By exercising any rights over the Subject Matter, you agree to be bound by this License in full.
 
 	5. Rights and conditions
 
-		You are granted absolute freedom, including but not limited to:
-			- Use the Material for any purpose, including commercial purposes
-			- Copy and share the Material
-			- Modify, adapt, or transform the Material
-			- Execute, display, or otherwise utilize the Material in any form
+		You are granted absolute freedom over the Subject Matter, including but not limited to:
+			- Use for any purpose, including commercial purposes
+			- Modify, adapt, or transform
+			- Execute, display, or otherwise utilize in any form
 		
-		Except for the following condition:
+		Subject to the following conditions:
 
-			To the maximum extent permitted by law, any Distribution of Derived Material must use exactly the same terms of this License. Relicensing or sublicensing of Derived Material is strictly prohibited.
+			To the maximum extent of applicable law, any Dependent Intellectual Property of the Subject Matter:
+				- Must use exactly the same terms of this License. Relicensing, sublicensing, or adding any terms or conditions is strictly prohibited.
+				- A copy of this License, or a reference to an accessible copy, must be available to all recipients
+
+		Notwithstanding the above, there is no requirement to provide the preferred form for modification of the Subject Matter.
 
 	6. Disclaimer of Warranty
 
-		This Material is provided "as is", without any warranty, express or implied.
+		The Subject Matter is provided "as is", without any warranty, express or implied.
 
 	7. Limitation of Liability
 
-		The author shall not be liable for any damages, claims, or other liabilities, whether in an action of contract, tort, or otherwise, arising from the use, misuse, or distribution of the Material.
+		The author shall not be liable for any damages, claims, or other liabilities, whether in an action of contract, tort, or otherwise, arising from the use, misuse, or distribution of the Subject Matter.
 
-	8. Moral Rights Waiver
+	8. Trademarks
 
-		The author waives any Moral Rights to the maximum extent permitted by law.
+		To the maximum extent permitted by applicable law, the author grants anyone the unrestricted right to use, reproduce, display, modify, exploit, or portray in any manner—including in ways that are critical, satirical, misleading, or humiliating—any trademark, service mark, logo, or trade name included in the Subject Matter, for any purpose, including commercial use.
+
+		The author waives any and all rights to enforce such trademarks or to assert claims of infringement, dilution, confusion, defamation, or harm to reputation arising from their use.
+
+	9. Trade Secrets and Confidential Information
+
+		To the maximum extent permitted by applicable law, the author irrevocably waives any and all rights to assert any claim, action, or liability arising from the disclosure, use, or misappropriation of any trade secret or confidential information included in the Subject Matter.
+
+		Any person may freely access, use, share, or disclose such trade secrets or confidential information without restriction, and the author shall have no right to pursue legal action against such activities.
+
+	10. Moral Rights Waiver
+
+		The author waives any Moral Rights to the maximum extent permitted by applicable law.
 	
-	9. Compatibility
+	11. Compatibility
 
-		You may combine or distribute the Material together with other works only if such works do not impose any additional terms or conditions on the combined whole.
+		The Subject Matter cannot be combined with any other Intellectual Property that imposes legal restrictions beyond those of this License.
 
-		This means that:
-
-			a) The combined Material must be governed exclusively by the terms of this License;
-
-			b) Any additional conditions (such as mandatory attribution, patent retaliation clauses, or usage restrictions) from other licenses are not permitted to apply to the combined work;
-
-			c) You may include Material under licenses that do not impose any such conditions, such as:
-
-				- CC0
-				- The Unlicense
-				- 0BSD
-
-		You are solely responsible for ensuring that any third-party material you combine or distribute with the Material complies with this requirement.
-		In all cases, the original Material and its derivatives remain governed by this License.
-
-	10. Legal Exceptions
-
-		Nothing in this License shall be construed as restricting rights granted by applicable law, including but not limited to fair use, quotation, parody, private use, educational use, or any other legal exception or limitation to copyright, patent, or similar rights.
