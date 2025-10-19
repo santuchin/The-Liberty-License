@@ -1,78 +1,88 @@
-
-The Liberty License version 0.3 – 2025-10-19
+The Liberty License version 1.0 – 2025-10-19
 
 PREAMBLE
-	The Liberty License (TLL) is designed to maximize freedom, granting the user the legal rights to do anything with the intellectual property covered by this licence, except to restrict others to do so.
+	The Liberty License (TLL) is designed to maximize freedom, granting the user the legal rights to do anything with the intellectual property covered by this License, except to restrict others from doing so.
 
 TERMS AND CONDITIONS
 
-	1. Severability
+	1. Definitions
 
-		If any provision of this license is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+		3.1. “Intellectual Property” means any right recognized by law that protects ideas or creations of the mind, including but not limited to:
+		 (a) Copyright;
+		 (b) Patents;
+		 (c) Trademarks;
+		 (d) Trade Secrets or Confidential Information;
+		 (e) Sui Generis rights;
+		 (f) Any similar rights recognized under applicable law.
 
-	2. Global Applicability
+		3.2. “Subject Matter” means any Intellectual Property covered by this License.
 
-		To the maximum extent permitted by applicable law, the terms of this License shall apply worldwide. Nothing in this License shall be interpreted as limiting its applicability to any particular jurisdiction, and all users shall comply with its terms to the fullest extent allowed by the applicable law.
+		3.3. “Dependent Intellectual Property” means, to the maximum extent permitted by applicable law, any Intellectual Property that, but for this License, would constitute an infringement, derivation, or dependency upon the Subject Matter.
 
-	3. Definitions
+	2. Severability
 
-		‘Intellectual Property’ means any right of applicable law that protects ideas or creations of the mind, including but not limited to:
-			- Copyright
-			- Patents
-			- Trademarks
-			- Trade secrets
-			- Sui Generis
-			- Any similar rights recognized by applicable law
+		1.1. If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+		1.2. Any invalid or unenforceable provision shall, to the maximum extent permitted by applicable law, be interpreted to effect the intent of the original provision as closely as possible.
 
-		'Subject Matter' means any Intellectual Property covered by this License.
+	3. Global Applicability
 
-		‘Dependent Intellectual Property’ means Intellectual Property that, but for this License, would constitute an infringement of the Subject Matter.
+		2.1. This License applies worldwide, to the maximum extent permitted by applicable law.
+		2.2. Nothing in this License shall be construed as limiting its applicability to any particular jurisdiction.
+		2.3. All persons exercising rights under this License shall comply with its terms to the fullest extent allowed by applicable law.
 
 	4. Acceptance
 
-		You may not use the Subject Matter except under the terms of this License.
-		By exercising any rights over the Subject Matter, you agree to be bound by this License in full.
+		4.1. You may not use the Subject Matter except under the terms of this License.
+		4.2. By using, accessing, or exercising any rights over the Subject Matter, you agree to be bound by this License in full.
 
-	5. Rights and conditions
+	5. Rights and Conditions
 
-		You are granted absolute freedom over the Subject Matter, including but not limited to:
-			- Use for any purpose, including commercial purposes
-			- Modify, adapt, or transform
-			- Execute, display, or otherwise utilize in any form
-		
-		Subject to the following conditions:
+		5.1. Granted Rights.
+			You are granted absolute and irrevocable freedom over the Subject Matter, including but not limited to:
+			 (a) Use for any purpose, including commercial purposes;
+			 (b) Modify, adapt, or transform;
+			 (c) Execute, display, perform, or otherwise utilize in any form or medium.
 
-			To the maximum extent of applicable law, any Dependent Intellectual Property of the Subject Matter:
-				- Must use exactly the same terms of this License. Relicensing, sublicensing, or adding any terms or conditions is strictly prohibited.
-				- A copy of this License, or a reference to an accessible copy, must be available to all recipients
+		5.2. Share-alike Condition.
 
-		Notwithstanding the above, there is no requirement to provide the preferred form for modification of the Subject Matter.
+			To the maximum extent permitted by applicable law, any Dependent Intellectual Property of the Subject Matter:
+			 (a) Must be licensed under exactly the same terms and conditions of this License;
+			 (b) May not be relicensed, sublicensed, or distributed under additional or alternative terms;
+			 (c) Must be accompanied by a copy of this License or by a clear and accessible reference to a publicly available copy.
 
-	6. Disclaimer of Warranty
+			To clarify, no one is under obligation in any case to distribute the preferred form or source form of the Subject Matter.
 
-		The Subject Matter is provided "as is", without any warranty, express or implied.
+	6. Trademarks
 
-	7. Limitation of Liability
+		6.1. The author grants unrestricted permission to use, reproduce, display, modify, parody, criticize, or otherwise exploit any trademark, service mark, logo, or trade name included in the Subject Matter, for any purpose, including commercial use.
 
-		The author shall not be liable for any damages, claims, or other liabilities, whether in an action of contract, tort, or otherwise, arising from the use, misuse, or distribution of the Subject Matter.
+		6.2. The author irrevocably waives all rights to enforce such marks, including claims of infringement, dilution, confusion, defamation, false attribution, or harm to reputation.
 
-	8. Trademarks
+		6.3. Nothing in this License shall be interpreted as creating or preserving any goodwill, reputation, or proprietary interest in such marks.
 
-		To the maximum extent permitted by applicable law, the author grants anyone the unrestricted right to use, reproduce, display, modify, exploit, or portray in any manner—including in ways that are critical, satirical, misleading, or humiliating—any trademark, service mark, logo, or trade name included in the Subject Matter, for any purpose, including commercial use.
+	7. Trade Secrets and Confidential Information
 
-		The author waives any and all rights to enforce such trademarks or to assert claims of infringement, dilution, confusion, defamation, or harm to reputation arising from their use.
+		7.1. The author irrevocably waives any and all rights to assert any claim, action, or liability arising from the disclosure, use, or misappropriation of any trade secret or confidential information contained in the Subject Matter.
 
-	9. Trade Secrets and Confidential Information
+		7.2. Any person may freely access, use, disclose, or redistribute such information without restriction, and the author shall have no right to pursue or maintain any legal, contractual, or equitable claim resulting from such actions.
 
-		To the maximum extent permitted by applicable law, the author irrevocably waives any and all rights to assert any claim, action, or liability arising from the disclosure, use, or misappropriation of any trade secret or confidential information included in the Subject Matter.
+	8. Moral Rights Waiver
 
-		Any person may freely access, use, share, or disclose such trade secrets or confidential information without restriction, and the author shall have no right to pursue legal action against such activities.
+		8.1. The author waives all moral rights, to the fullest extent permitted by applicable law, including but not limited to rights of attribution, integrity, disclosure, and withdrawal.
 
-	10. Moral Rights Waiver
+	9. Warranty Disclaimer
 
-		The author waives any Moral Rights to the maximum extent permitted by applicable law.
-	
+		9.1. The Subject Matter is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, title, or non-infringement.
+
+	10. Limitation of Liability
+
+		10.1. In no event shall the author be liable for any claim, damages, or other liability, whether in contract, tort, or otherwise, arising from, out of, or in connection with the Subject Matter or the use or other dealings thereof.
+
+		10.2. This includes, without limitation, liability for reputational, consequential, incidental, indirect, punitive, or exemplary damages, and any claim for defamation, humiliation, or loss of goodwill.
+
 	11. Compatibility
 
-		The Subject Matter cannot be combined with any other Intellectual Property that imposes legal restrictions beyond those of this License.
+		11.1. The Subject Matter may not be combined, merged, or distributed with any other work that imposes legal restrictions beyond those contained in this License.
+		11.2. Any such combination shall be considered a derivative work and must comply with Section 5.2 of this License.
 
+End of The Liberty License version 1.0
