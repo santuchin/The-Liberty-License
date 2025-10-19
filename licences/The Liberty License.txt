@@ -17,7 +17,11 @@ TERMS AND CONDITIONS
 
 		3.2. “Subject Matter” means any Intellectual Property covered by this License.
 
-		3.3. “Dependent Intellectual Property” means, to the maximum extent permitted by applicable law, any Intellectual Property that, but for this License, would constitute an infringement, derivation, or dependency upon the Subject Matter.
+		3.3. “Dependent Intellectual Property” means, to the maximum extent permitted by applicable law, any Intellectual Property that, but for this License, would constitute an infringement, derivation, or dependency upon the Subject Matter in part or whole, including but not limited to:
+		 (a) Derivatives;
+		 (b) Translations;
+		 (c) Any form of expresion of the Subject Matter.
+		 (d) Intellectual Property made or modified using the Subject Matter;
 
 	2. Severability
 

@@ -1,50 +1,73 @@
-Copyright © <YEAR> <COPYRIGHT HOLDER>
-
-The Absolute Liberty License (TALL) Version 0.1 – 2025-10-01
+The Absolute Liberty License version 1.0 – 2025-10-19
 
 PREAMBLE
-	The Absolute Liberty License (TALL) is designed to give the user the maximum possible freedom, giving the user the legal rights to do anything with it, even to take away the freedom of anyone else.
+	The Absolute Liberty License (TALL) is designed to maximize freedom, granting the user the legal rights to do anything with the intellectual property covered by this License, except to restrict others from doing so.
 
-TERMS
+TERMS AND CONDITIONS
 
-	1. Severability
+	1. Definitions
 
-		If any provision of this license is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+		3.1. “Intellectual Property” means any right recognized by law that protects ideas or creations of the mind, including but not limited to:
+		 (a) Copyright;
+		 (b) Patents;
+		 (c) Trademarks;
+		 (d) Trade Secrets or Confidential Information;
+		 (e) Sui Generis rights;
+		 (f) Any similar rights recognized under applicable law.
 
-	2. Global Applicability
+		3.2. “Subject Matter” means any Intellectual Property covered by this License.
 
-		To the maximum extent permitted by local law, the terms of this License shall apply worldwide. Nothing in this License shall be interpreted as limiting its applicability to any particular jurisdiction, and all users are expected to comply with its terms to the extent allowed by law in their country.
+	2. Severability
 
-	3. Definitions
+		1.1. If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+		1.2. Any invalid or unenforceable provision shall, to the maximum extent permitted by applicable law, be interpreted to effect the intent of the original provision as closely as possible.
 
-		Material: Licensable, including but not limited to:
-			- Copyright
-			- Patents
-			- Sui Generis rights
+	3. Global Applicability
+
+		2.1. This License applies worldwide, to the maximum extent permitted by applicable law.
+		2.2. Nothing in this License shall be construed as limiting its applicability to any particular jurisdiction.
+		2.3. All persons exercising rights under this License shall comply with its terms to the fullest extent allowed by applicable law.
 
 	4. Acceptance
-		By using this Material you agree to be bound by its terms.
 
-	5. Rights and conditions
+		4.1. You may not use the Subject Matter except under the terms of this License.
+		4.2. By using, accessing, or exercising any rights over the Subject Matter, you agree to be bound by this License in full.
 
-		You are granted absolute freedom, including but not limited to:
-			- Use the Material for any purpose, including commercial purposes
-			- Copy and share the Material
-			- Modify, adapt, or transform the Material
-			- Execute, display, or otherwise utilize the Material in any form
-			- License, relicense, sublicense
-		
-	6. Disclaimer of Warranty
+	5. Rights and Conditions
 
-		This Material is provided "as is", without any warranty, express or implied.
+		5.1. Granted Rights.
+			You are granted absolute and irrevocable freedom over the Subject Matter, including but not limited to:
+			 (a) Use for any purpose, including commercial purposes;
+			 (b) Modify, adapt, or transform;
+			 (c) Execute, display, perform, or otherwise utilize in any form or medium.
 
-	7. Limitation of Liability
+	6. Trademarks
 
-		The author shall not be liable for any damages, claims, or other liabilities, whether in an action of contract, tort, or otherwise, arising from the use, misuse, or distribution of the Material.
+		6.1. The author grants unrestricted permission to use, reproduce, display, modify, parody, criticize, or otherwise exploit any trademark, service mark, logo, or trade name included in the Subject Matter, for any purpose, including commercial use.
+
+		6.2. The author irrevocably waives all rights to enforce such marks, including claims of infringement, dilution, confusion, defamation, false attribution, or harm to reputation.
+
+		6.3. Nothing in this License shall be interpreted as creating or preserving any goodwill, reputation, or proprietary interest in such marks.
+
+	7. Trade Secrets and Confidential Information
+
+		7.1. The author irrevocably waives any and all rights to assert any claim, action, or liability arising from the disclosure, use, or misappropriation of any trade secret or confidential information contained in the Subject Matter.
+
+		7.2. Any person may freely access, use, disclose, or redistribute such information without restriction, and the author shall have no right to pursue or maintain any legal, contractual, or equitable claim resulting from such actions.
 
 	8. Moral Rights Waiver
 
-		The author waives any Moral Rights to the maximum extent permitted by law.
-	
-	9. Compatibility
-		You may combine the Material with any Material.
+		8.1. The author waives all moral rights, to the fullest extent permitted by applicable law, including but not limited to rights of attribution, integrity, disclosure, and withdrawal.
+
+	9. Warranty Disclaimer
+
+		9.1. The Subject Matter is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, title, or non-infringement.
+
+	10. Limitation of Liability
+
+		10.1. In no event shall the author be liable for any claim, damages, or other liability, whether in contract, tort, or otherwise, arising from, out of, or in connection with the Subject Matter or the use or other dealings thereof.
+
+		10.2. This includes, without limitation, liability for reputational, consequential, incidental, indirect, punitive, or exemplary damages, and any claim for defamation, humiliation, or loss of goodwill.
+
+End of The Absolute Liberty License version 1.0
+
