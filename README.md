@@ -1,4 +1,4 @@
-# The-Liberty-License
+# The Liberty License
 
 This project and all its licences are inspired in the principes of the libertarianism.
 
