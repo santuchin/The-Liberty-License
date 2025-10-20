@@ -7,7 +7,7 @@ TERMS AND CONDITIONS
 
 	1. Definitions
 
-		3.1. “Intellectual Property” means any right recognized by law that protects ideas or creations of the mind, including but not limited to:
+		1.1. “Intellectual Property” means any right recognized by law that protects ideas or creations of the mind, including but not limited to:
 		 (a) Copyright;
 		 (b) Patents;
 		 (c) Trademarks;
@@ -15,9 +15,9 @@ TERMS AND CONDITIONS
 		 (e) Sui Generis rights;
 		 (f) Any similar rights recognized under applicable law.
 
-		3.2. “Subject Matter” means any Intellectual Property covered by this License.
+		1.2. “Subject Matter” means any Intellectual Property covered by this License.
 
-		3.3. “Dependent Intellectual Property” means, to the maximum extent permitted by applicable law, any Intellectual Property that, but for this License, would constitute an infringement, derivation, or dependency upon the Subject Matter in part or whole, including but not limited to:
+		1.3. “Dependent Intellectual Property” means, to the maximum extent permitted by applicable law, any Intellectual Property that, but for this License, would constitute an infringement, derivation, or dependency upon the Subject Matter in part or whole, including but not limited to:
 		 (a) Derivatives;
 		 (b) Translations;
 		 (c) Any form of expresion of the Subject Matter.
@@ -25,14 +25,14 @@ TERMS AND CONDITIONS
 
 	2. Severability
 
-		1.1. If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
-		1.2. Any invalid or unenforceable provision shall, to the maximum extent permitted by applicable law, be interpreted to effect the intent of the original provision as closely as possible.
+		2.1. If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+		2.2. Any invalid or unenforceable provision shall, to the maximum extent permitted by applicable law, be interpreted to effect the intent of the original provision as closely as possible.
 
 	3. Global Applicability
 
-		2.1. This License applies worldwide, to the maximum extent permitted by applicable law.
-		2.2. Nothing in this License shall be construed as limiting its applicability to any particular jurisdiction.
-		2.3. All persons exercising rights under this License shall comply with its terms to the fullest extent allowed by applicable law.
+		3.1. This License applies worldwide, to the maximum extent permitted by applicable law.
+		3.2. Nothing in this License shall be construed as limiting its applicability to any particular jurisdiction.
+		3.3. All persons exercising rights under this License shall comply with its terms to the fullest extent allowed by applicable law.
 
 	4. Acceptance
 
