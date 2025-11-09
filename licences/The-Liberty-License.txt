@@ -1,7 +1,7 @@
-The Liberty License version 0.1 – 2025-10-19
+The Liberty License version 0.2 – 2025-11-8
 
 PREAMBLE
-	The Liberty License (TLL) is designed to maximize freedom, granting the user the legal rights to do anything with the intellectual property covered by this License, except to restrict others from doing so.
+	The Liberty License (TLL) is designed to maximize freedom, granting the user irrevocable legal rights to do anything with the intellectual property covered by this License, except to restrict others from doing so.
 
 TERMS AND CONDITIONS
 
@@ -50,8 +50,8 @@ TERMS AND CONDITIONS
 		5.2. Share-alike Condition.
 
 			To the maximum extent permitted by applicable law, any Dependent Intellectual Property of the Subject Matter:
-			 (a) Must be licensed under exactly the same terms and conditions of this License;
-			 (b) May not be relicensed, sublicensed, or distributed under additional or alternative terms;
+			 (a) Must be licensed at least under the terms and conditions of this License;
+			 (b) May not be relicensed, sublicensed;
 			 (c) Must be accompanied by a copy of this License or by a clear and accessible reference to a publicly available copy.
 
 			To clarify, no one is under obligation in any case to distribute the preferred form or source form of the Subject Matter. It is irrelevant whether the user lacks the ability to exercise his rights, as long as he possesses them.
@@ -90,4 +90,14 @@ TERMS AND CONDITIONS
 
 		11.2. Any such combination shall still comply with the Share-alike Condition of Section 5.2 with respect to any Dependent Intellectual Property derived from the Subject Matter.
 
-End of The Liberty License version 0.1
+	12. Termination
+
+		Subject to applicable law, the rights granted under this License shall automatically terminate upon any breach of its terms or conditions. Such termination shall remain in effect until full compliance is restored, at which point the rights shall automatically be reinstated under the same terms.
+
+	13. Patent License Grant and Retaliation
+
+		13.1. The author hereby grants You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Subject Matter, where such license applies only to those patent claims licensable by the author that are necessarily infringed by the Subject Matter.
+
+		13.2. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) asserting that the Subject Matter or Dependent Intellectual Property constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License shall terminate as of the date such litigation is filed.
+
+End of The Liberty License version 0.2
